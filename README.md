@@ -1,6 +1,6 @@
 # prismic-next.js-typescript
 
-A is a simple blog made with [Prismic](https://prismic.io/), [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
+A simple blog made with [Prismic](https://prismic.io/), [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 
 ## Available Scripts
 
