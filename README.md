@@ -1,10 +1,8 @@
 # prismic-next.js-typescript
 
-This is a simple blog made with [Prismic](https://prismic.io/), [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
+A is a simple blog made with [Prismic](https://prismic.io/), [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ```sh
 yarn
